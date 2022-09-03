@@ -1,1 +1,1 @@
-A Node library can be found at: https://www.npmjs.com/package/sendowl-node
+A Node library can be found at: https://www.npmjs.com/package/sendowl-js
